@@ -2,7 +2,8 @@
 	"name": "helloworld",
 	"displayName": "HelloWorld",
 	"description": "",
-	"version": "0.0.1",
+  "publisher": "team-blue",
+  "version": "0.0.1",
 	"engines": {
 		"vscode": "^1.42.0"
 	},
